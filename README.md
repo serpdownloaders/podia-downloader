@@ -1,6 +1,6 @@
-# Podia Downloader — Coming Soon (Browser Extension)
+# Podia Downloader (Browser Extension)
 
-> Download Podia course videos as MP4 files directly from your browser. **This extension is currently in development and has not been released yet.**
+> Download Podia course videos as MP4 files directly from your browser. Use this page for current scope details and waitlist updates.
 
 Podia Downloader is an upcoming browser extension designed to let users save video lessons from Podia courses without switching to third-party screen recorders or command-line utilities. It will integrate with the browser playback experience so you can export course videos while watching them on the Podia platform.
 
@@ -12,13 +12,13 @@ Podia Downloader is an upcoming browser extension designed to let users save vid
 
 ## Status
 
-**This extension is not yet available for download.** Development is in progress and a release date has not been announced. Sign up below to get notified when it launches.
+This page tracks the current scope and waitlist for the browser extension. Sign up below to get release updates.
 
-:bell: **Get notified when this launches:** [Join the waitlist](https://serp.ly/podia-downloader)
+:bell: **Get release updates:** [Join the waitlist](https://serp.ly/podia-downloader)
 
 ## Links
 
-- :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://serp.ly/podia-downloader)
+- :hourglass_flowing_sand: Waitlist: [Join the waitlist](https://serp.ly/podia-downloader)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :bulb: Request features: [GitHub Issues](https://github.com/serpapps/podia-downloader/issues)
 
