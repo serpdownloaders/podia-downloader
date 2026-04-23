@@ -1,4 +1,4 @@
-# Podia Downloader (Browser Extension)
+# Podia Downloader
 
 > Download Podia course videos as MP4 files directly from your browser. Use this page for current scope details and waitlist updates.
 
